@@ -1,92 +1,84 @@
-<h1 align="center">Hi 👋, I'm Enock Jufri</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&center=true&vCenter=true&random=false&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Enock+Jufri;+A+Passionate+Full+Stack+Developer;React+%E2%80%A2+Python+%E2%80%A2+Rust+%E2%80%A2+Odin" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enock-jufri&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+<h2 align="center">Building clean, scalable apps from frontend to backend — and experimenting with systems programming 🚀</h2>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=enock-jufri&theme=tokyonight" alt="GitHub Profile Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/jufrienock" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/jufrienock?logo=twitter&style=for-the-badge&color=blue" alt="Twitter Follow" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=enock-jufri&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/enock-jufri?label=Followers&style=flat&logo=github&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/twitter/follow/JufriEnock?label=Follow&style=flat&logo=x&color=blue" alt="X Follow" />
+</div>
 
 ---
 
-### **📫 How to reach me**
-📧 **Email:** enockjufri@gmail.com  
+### 🌟 About Me
+
+- 🔭 Currently building **full stack applications** with React & Flask
+- ⚙️ Exploring **systems programming** with **Rust** and **Odin**
+- 🧠 Lover of **clean code, good UI/UX, and fast algorithms**
+- 📫 Reach me at **enockjufri@gmail.com**
+
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://x.com/JufriEnock" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="32" width="32" /></a>
+  <a href="https://www.linkedin.com/in/enock-koech-651181208" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="32" width="32" /></a>
+  <a href="mailto:enockjufri@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="32" width="32" /></a>
+</div>
 
 ---
 
-### **🌐 Connect with me**
-<p align="center">
-  <a href="https://twitter.com/jufrienock" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-</p>
+### 🛠️ Languages & Technologies
+
+| 🌐 Frontend | ⚙️ Backend | 💾 Databases | 🔧 Tools |
+| :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="44" height="44" alt="HTML5" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44" alt="Python" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="44" height="44" alt="PostgreSQL" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="44" height="44" alt="Linux" /> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="44" height="44" alt="CSS3" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="44" height="44" alt="Flask" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="44" height="44" alt="MySQL" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="44" height="44" alt="Git" /> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="44" height="44" alt="Rust" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="44" height="44" alt="MongoDB" /> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="44" height="44" alt="SQLite" /> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="44" height="44" alt="React" /> | <img src="https://odin-lang.org/logo.svg" width="28" height="28" alt="Odin" /> | | |
+
+> **Rust** for performance-critical systems software • **Odin** for data-oriented, high-performance games/systems programming 💪
 
 ---
 
-### **🛠️ Languages & Tools**
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-</p>
+### 📂 Featured Projects
+
+| Project | Stack | Descriptison |
+| :---: | :---: | :---: |
+| [📈 performance_tracker](https://github.com/enock-jufri/performance_tracker) | PHP | Track and analyze performance data |
+| [🎬 movieExplorer](https://github.com/enock-jufri/movieExplorer) | CSS / JS | Explore and discover movies |
+| [👤 portfolio](https://github.com/enock-jufri/portfolio) | JavaScript | My personal dev portfolio |
+| [🏦 bank_ui](https://github.com/enock-jufri/bank_ui) | JavaScript | Modern banking interface |
+| [🗄️ bank_db](https://github.com/enock-jufri/bank_db) | Python | Banking system database |
 
 ---
 
-### **📊 GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enock-jufri&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enock-jufri&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <a href="https://github.com/enock-jufri">
+    <img src="https://github-readme-stats.vercel.app/api?username=enock-jufri&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/enock-jufri">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enock-jufri&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+  <br />
+  <a href="https://github.com/enock-jufri">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=enock-jufri&theme=tokyonight" alt="Stats Streak" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enock-jufri&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enock-jufri&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ “Clean code always looks like it was written by someone who cares.”</i>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4500&pause=200&center=true&color=blueviolet&lines=Thanks+for+staying+through!+Follow+me+on+X+%40JufkiEnock+%F0%9F%91%8B" alt="Thanks" />
+</div>
